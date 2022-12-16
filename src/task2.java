@@ -15,7 +15,6 @@ public class task2 {
                 count--;
             }
         }
-
         if (count == 0) {
             System.out.println("Число " + num + " встречается в массивах одинаковое количество раз");
         } else {
